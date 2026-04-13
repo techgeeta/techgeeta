@@ -562,27 +562,19 @@ graph LR
 
 <br/>
 
+<
 <!-- VISITOR COUNTER SECTION -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> 
-**PROFILE VIEWS**
+## 👁️ PROFILE VIEWS
 
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=techgeeta&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
-
-<br/>
-
-<img src="https://visitcount.itsvg.in/api?id=techgeeta&label=Total%20Visitors&color=6&icon=5&pretty=true" alt="Visit Count"/>
+<img src="https://komarev.com/ghpvc/?username=techgeeta&label=Profile%20Views&color=F75C7E&style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 
-<br/>
+</div>
 
 ### ⭐ **If you like my work, consider giving a star!** ⭐
 

@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- FUTURISTIC ANIMATED HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A7AFF,100:6A00FF&height=220&section=header&text=ANMOL%20DHIMAN&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Every%20Developer%20Tells%20a%20Story...%20✨&descAlignY=60&descSize=20" alt="Header" width="100%"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A7AFF,100:6A00FF&height=230&section=header&text=GEETA%20MEHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast%20☁️%20|%20MCA%20Student%20🎓%20|%20Always%20Learning%20🚀&descAlignY=60&descSize=18"/>
+</p>
 
 </div>
 

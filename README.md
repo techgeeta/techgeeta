@@ -299,10 +299,10 @@ const GramStay = {
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&text_color=FFFFFF"/>
+<!-- STATS CARDS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=techgeeta&theme=radical&hide_border=true"/>
-
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF" alt="GitHub Streak"/>
 ### 📊 GitHub Insights
 
 <a href="https://github.com/techgeeta">

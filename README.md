@@ -290,23 +290,42 @@ const GramStay = {
 ---
 
 <br/>
+
+<!-- GITHUB ANALYTICS SECTION -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=techgeeta&theme=radical&hide_border=true"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgeeta&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=techgeeta&theme=react-dark"/>
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> **GITHUB ANALYTICS**
 
 </div>
+
+<div align="center">
+
+<!-- STATS CARDS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF" alt="GitHub Streak"/>
+
+<div align="center">
+
+### 📊 GitHub Insights
+
+<a href="https://github.com/techgeeta">
+  <img src="https://img.shields.io/badge/📈%20View%20Stats-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/techgeeta?tab=repositories">
+  <img src="https://img.shields.io/badge/📂%20Repositories-6A00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/techgeeta?tab=stars">
+  <img src="https://img.shields.io/badge/⭐%20Stars-F85D7F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/techgeeta?tab=followers">
+  <img src="https://img.shields.io/badge/👥%20Followers-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
 <!-- SNAKE ANIMATION -->
 <div align="center">
 

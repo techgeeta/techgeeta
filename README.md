@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED GRADIENT HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GEETA%20MEHRA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Enthusiast%20%7C%20MCA%20Student%20%7C%20Always%20Learning&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=GEETA%20MEHRA&fontAlign=50&fontAlignY=35&color=0:00F7FF,50:8A2BE2,100:FF00FF&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Cloud+%E2%98%81%EF%B8%8F+%7C+DevOps+%E2%9A%99%EF%B8%8F+%7C+AWS+%F0%9F%9A%80+%7C+Automation+%F0%9F%94%A5;Always+Learning+%7C+Always+Building+%7C+Always+Growing+%F0%9F%8C%B1;Passionate+about+Scalable+Cloud+Systems+%E2%98%81%EF%B8%8F%E2%9A%A1" alt="Typing SVG" /></a>

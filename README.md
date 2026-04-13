@@ -301,29 +301,28 @@ const GramStay = {
 <div align="center">
 
 <!-- STATS CARDS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF"/>
 
 <br/>
 
 <!-- TOP LANGUAGES -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgeeta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgeeta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 
 <!-- CONTRIBUTION GRAPH -->
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=techgeeta&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Contribution Graph"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=techgeeta&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=techgeeta&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true" alt="Contribution Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=techgeeta&theme=react-dark"/>
 
 </div>
 
 <br/>
 
 ---
-
-<br/>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">

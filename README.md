@@ -1,8 +1,13 @@
-<div align="center">
-
-<!-- ANIMATED GRADIENT HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=220&section=header&text=GEETA%20MEHRA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=GEETA%20MEHRA&fontAlign=50&fontAlignY=38&color=0:00F7FF,50:8A2BE2,100:FF00FF&fontColor=ffffff&animation=fadeIn&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=60"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Cloud+%E2%98%81%EF%B8%8F+%7C+DevOps+%E2%9A%99%EF%B8%8F+%7C+AWS+%F0%9F%9A%80+%7C+Automation+%F0%9F%94%A5;Always+Learning+%F0%9F%8C%B1"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
 
 <!-- TYPING ANIMATION -->

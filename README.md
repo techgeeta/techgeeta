@@ -1,204 +1,214 @@
 <div align="center">
 
-  <!-- FUTURISTIC ANIMATED HEADER -->
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A7AFF,100:6A00FF&height=230&section=header&text=GEETA%20MEHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Enthusiast%20☁️%20|%20MCA%20Student%20🎓%20|%20Always%20Learning%20🚀&descAlignY=60&descSize=18"/>
+<!-- ANIMATED GRADIENT HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GEETA%20MEHRA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%E2%98%81%EF%B8%8F%20%7C%20DevOps%20%E2%9A%99%EF%B8%8F%20%7C%20AWS%20%F0%9F%9A%80%20%7C%20Automation%20%F0%9F%94%A5%20%7C%20Always%20Learning&descAlignY=51&descAlign=50"/>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Cloud+%E2%98%81%EF%B8%8F+%7C+DevOps+%E2%9A%99%EF%B8%8F+%7C+AWS+%F0%9F%9A%80+%7C+Automation+%F0%9F%94%A5+%7C+Always+Learning;Designing+scalable+cloud+systems+%26+automating+the+future+%E2%98%81%EF%B8%8F%E2%9A%99%EF%B8%8F;MCA+%40+Graphic+Era+Hill+University+%F0%9F%8E%93;Building+Real-World+Cloud+Solutions+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-</div>
-
-<div align="center">
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Cloud+%E2%98%81%EF%B8%8F+%7C+DevOps+%E2%9A%99%EF%B8%8F+%7C+AWS+%F0%9F%9A%80+%7C+Automation+%F0%9F%94%A5;Always+Learning+%7C+Always+Building+%7C+Always+Growing+%F0%9F%8C%B1;Passionate+about+Scalable+Cloud+Systems+%E2%98%81%EF%B8%8F%E2%9A%A1" alt="Typing SVG" /></a>
-
-<!-- ANIMATED GLOWING LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<!-- HERO TAGLINE -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Designing+scalable+cloud+systems+%E2%98%81%EF%B8%8F;Automating+the+future+%E2%9A%99%EF%B8%8F;Building+the+next+generation+of+tech+%F0%9F%9A%80" alt="Tagline" />
-</h3>
-
-<div align="center">
-  
-<!-- DEVELOPER ILLUSTRATION -->
+<!-- ANIMATED DEVELOPER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-</div>
-
-<br>
+<br/>
 
 <!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<br>
+</div>
 
-<!-- ABOUT ME SECTION WITH GLASSMORPHISM CARD -->
+<br/>
+
+<!-- HERO SECTION -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
+### 💫 **Designing scalable cloud systems & automating the future ☁️⚙️**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ABOUT ME SECTION -->
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **ABOUT ME**
 
 </div>
 
 <div align="center">
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="left">
+
+<!-- GLASSMORPHISM CARD -->
+<table>
+<tr>
+<td>
 
 ```yaml
 name: Geeta Mehra
 located_in: Haldwani, Uttarakhand, India
-current_education: MCA @ Graphic Era Hill University
+current_role: MCA Student @ Graphic Era Hill University
+education: Master of Computer Applications (MCA)
 interests:
   - Cloud Computing ☁️
-  - DevOps & CI/CD ⚙️
-  - AWS & Azure 🚀
-  - Automation & AI 🤖
-  - Building Real-World Applications 💡
+  - DevOps Engineering ⚙️
+  - AWS & Azure Platforms 🚀
+  - CI/CD Automation 🔄
+  - AI Integrations 🧠
+  
+passion: |
+  Building real-world applications that solve problems.
+  Turning ideas into cloud-powered, scalable solutions.
+  
+mindset: Fast Learner | Problem Solver | Tech Enthusiast
 
-learning: AWS, Jenkins, CI/CD Pipelines, Kubernetes
-2026_goals:
-  - Master DevOps tools
-  - Build production-ready systems
-  - Contribute to open source
-  - Secure top tech role
+currently_learning:
+  - Advanced AWS Services
+  - DevOps Best Practices
+  - Kubernetes & Docker
+  - Infrastructure as Code (Terraform)
 ```
-
-</td>
-<td width="50%" align="left">
-
-<br>
-
-🎓 **MCA Student** passionate about **Cloud Computing** and **DevOps**
-
-☁️ Strong interest in **AWS, Azure, CI/CD**, and **automation pipelines**
-
-💡 Love building **real-world applications** that solve problems
-
-🚀 **Fast learner** with a **problem-solving mindset**
-
-🔥 Exploring **AI integrations** in cloud infrastructure
-
-⚡ Believer in **continuous learning** and **growth**
-
-<br>
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- WHAT I DO SECTION -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **What I Do**
+## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d4b5579.png" width="30"/> **WHAT I DO**
 
 </div>
 
 <div align="center">
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=aws" width="65"/>
-<br><br>
-<h3>☁️ Cloud Computing</h3>
-<p>Designing scalable cloud architectures on AWS & Azure</p>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br/><br/>
+<b>☁️ Cloud Computing</b>
+<br/><br/>
+<i>Building & deploying scalable<br/>cloud infrastructure on<br/>AWS & Azure</i>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-<br>
-<h3>⚙️ DevOps</h3>
-<p>Building CI/CD pipelines and automating deployments</p>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<br/><br/>
+<b>⚙️ DevOps</b>
+<br/><br/>
+<i>Automating workflows,<br/>CI/CD pipelines, and<br/>deployment processes</i>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
-<br>
-<h3>🤖 Automation</h3>
-<p>Creating efficient automation workflows & scripts</p>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<br/><br/>
+<b>🤖 Automation</b>
+<br/><br/>
+<i>Streamlining operations<br/>with scripts, bots, and<br/>intelligent systems</i>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-<br>
-<h3>🧠 AI Integration</h3>
-<p>Integrating AI/ML into cloud-based applications</p>
+<td width="25%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br/><br/>
+<b>🧠 AI Integration</b>
+<br/><br/>
+<i>Implementing AI-powered<br/>features into modern<br/>applications</i>
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- TECH STACK SECTION -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Stack**
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"/> **TECH STACK**
 
 </div>
+
+### **💻 Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### **☁️ Cloud Platforms**
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</p>
+
+### **⚙️ DevOps & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### **🎨 Design & Prototyping**
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+### **📊 Data Science & AI**
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### **🚀 Frameworks & Libraries**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
 <div align="center">
-
-### 💻 **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ☁️ **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### ⚙️ **DevOps & Tools**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🎨 **Design & Prototyping**
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-### 📊 **Data Science & AI**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🚀 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- FEATURED PROJECT SECTION -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"> **Featured Project**
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> **FEATURED PROJECT**
 
 </div>
 
@@ -209,97 +219,116 @@ learning: AWS, Jenkins, CI/CD Pipelines, Kubernetes
 <tr>
 <td width="50%">
 
-<br>
+### **🌟 GramStay AI Booking Platform**
 
-## 🌟 **GramStay AI Booking Platform**
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
-<br>
+**Full-Stack Cloud Application**
 
-🚀 **Full-stack application** built with **React & Node.js**
+🔹 **Tech Stack:** React, Node.js, Express, MongoDB  
+🔹 **Features:**
+- 🤖 AI-Powered Homestay Recommendations
+- 📍 Village Tourism (Jim Corbett Region)
+- 💳 Secure Booking System
+- 🗺️ Interactive Maps & Reviews
+- ☁️ Cloud-Deployed Infrastructure
 
-🤖 **AI-powered recommendation engine** for personalized experiences
-
-🏡 **Smart booking system** for village homestays in **Jim Corbett**
-
-💡 Features real-time availability, payment integration, and user reviews
-
-🎯 Designed to promote **rural tourism** and sustainable travel
-
-<br>
+**Status:** 🚧 In Development
 
 </td>
 <td width="50%">
 
-<br>
+<br/><br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+<div align="center">
 
-<br>
+```javascript
+const GramStay = {
+  mission: "Connect travelers with authentic 
+           village experiences",
+  
+  technology: {
+    frontend: "React + Modern UI/UX",
+    backend: "Node.js + Express",
+    database: "MongoDB Atlas",
+    ai: "Recommendation Engine",
+    cloud: "AWS (EC2, S3, RDS)"
+  },
+  
+  impact: "Empowering rural tourism 
+          & local communities",
+  
+  vision: "Scale to 100+ villages 
+          across India"
+};
+```
+
+<br/>
+
+<a href="https://github.com/techgeeta">
+  <img src="https://img.shields.io/badge/💻_GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/techgeeta">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/techgeeta">
+  <img src="https://img.shields.io/badge/📖_Documentation-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+</a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<!-- PROJECT BUTTONS -->
-<a href="https://github.com/techgeeta">
-  <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-</a>
-<a href="https://github.com/techgeeta">
-  <img src="https://img.shields.io/badge/🔗_View_Project-8A2BE2?style=for-the-badge" alt="View Project"/>
-</a>
-<a href="https://github.com/techgeeta">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-00C4CC?style=for-the-badge" alt="Live Demo"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- GITHUB ANALYTICS SECTION -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics**
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> **GITHUB ANALYTICS**
 
 </div>
 
 <div align="center">
-  
-<!-- GITHUB STATS -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
-<!-- GITHUB STREAK -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF"/>
+<!-- STATS CARDS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF" alt="GitHub Streak"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <!-- TOP LANGUAGES -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgeeta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgeeta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages"/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=techgeeta&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Contribution Graph"/>
+
+<br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techgeeta&custom_title=Geeta's%20Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="100%"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=techgeeta&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true" alt="Contribution Graph"/>
 
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **Contribution Snake**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> **CONTRIBUTION SNAKE**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techgeeta/techgeeta/output/github-contribution-grid-snake-dark.svg">
@@ -307,19 +336,22 @@ learning: AWS, Jenkins, CI/CD Pipelines, Kubernetes
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techgeeta/techgeeta/output/github-contribution-grid-snake.svg">
 </picture>
 
+<sub>*Watch the snake eat my contributions!* 🐍</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- ACHIEVEMENTS SECTION -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Achievements & Certifications**
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-60486276-c2e3-43e9-a31f-c172c0cef193.png" width="30"/> **ACHIEVEMENTS & CERTIFICATIONS**
 
 </div>
 
@@ -328,42 +360,43 @@ learning: AWS, Jenkins, CI/CD Pipelines, Kubernetes
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-<br><br>
-<h3>🎓 Deloitte Technology</h3>
-<p><b>Job Simulation</b></p>
-<p>Completed technology consulting simulation</p>
+<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.gif" width="120">
+<br/><br/>
+<b>🏆 Deloitte Technology<br/>Job Simulation</b>
+<br/><br/>
+<sub>Completed advanced tech<br/>scenarios & case studies</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d93-7b0d-4aa0-a75e-1f59aab9f8f2.gif" width="100">
-<br><br>
-<h3>☁️ AWS Learning</h3>
-<p><b>In Progress</b></p>
-<p>Mastering AWS cloud services & architecture</p>
+<img src="https://user-images.githubusercontent.com/74038190/216125801-70c7e8ed-294a-44ea-9a16-aeffa2651b29.gif" width="120">
+<br/><br/>
+<b>☁️ AWS Cloud<br/>Practitioner (Learning)</b>
+<br/><br/>
+<sub>Mastering AWS services<br/>& cloud architecture</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
-<br><br>
-<h3>⚙️ DevOps Tools</h3>
-<p><b>In Progress</b></p>
-<p>Jenkins, GitLab CI/CD, Docker, Kubernetes</p>
+<img src="https://user-images.githubusercontent.com/74038190/216125646-e8ff9796-59d0-4e2f-9312-b2e2a7a0354b.gif" width="120">
+<br/><br/>
+<b>⚙️ DevOps Tools<br/>Expertise (Learning)</b>
+<br/><br/>
+<sub>Jenkins, Docker, K8s,<br/>Terraform & more</sub>
 </td>
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- CURRENT GOALS SECTION -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **Current Goals for 2026**
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> **2026 ROADMAP & GOALS**
 
 </div>
 
@@ -373,63 +406,56 @@ learning: AWS, Jenkins, CI/CD Pipelines, Kubernetes
 <tr>
 <td>
 
-### 🎯 **Professional Development**
-
-```yaml
-Q1 2026:
-  ✅ Master Jenkins & GitLab CI/CD
-  ✅ Deploy 3 production-ready cloud applications
-  ✅ Get AWS Solutions Architect certification
-
-Q2 2026:
-  ☁️ Deep dive into Kubernetes & Docker
-  ☁️ Build microservices architecture
-  ☁️ Contribute to 5+ open source projects
-
-Q3-Q4 2026:
-  🚀 Secure DevOps/Cloud Engineer role
-  🚀 Build personal cloud infrastructure portfolio
-  🚀 Start tech blog & YouTube channel
+```mermaid
+graph LR
+    A[🎯 2026 Goals] --> B[Q1: Master DevOps Tools]
+    A --> C[Q2: Build Production Systems]
+    A --> D[Q3: Open Source Contributions]
+    A --> E[Q4: Land Dream Tech Job]
+    
+    B --> F[✅ Jenkins CI/CD]
+    B --> G[✅ Docker & Kubernetes]
+    B --> H[✅ Terraform IaC]
+    
+    C --> I[🚀 Deploy 3+ Projects]
+    C --> J[☁️ AWS Architecture]
+    
+    D --> K[⭐ 10+ PRs]
+    D --> L[🔧 Maintain Projects]
+    
+    E --> M[💼 Top Tech Company]
+    E --> N[📈 Portfolio Complete]
 ```
-
-</td>
-<td>
-
-### 💡 **Learning Path**
-
-<br>
-
-🔹 **AWS**: EC2, S3, Lambda, RDS, CloudFormation
-
-🔹 **DevOps**: Jenkins, GitLab, GitHub Actions
-
-🔹 **Containers**: Docker, Kubernetes, Helm
-
-🔹 **IaC**: Terraform, Ansible, CloudFormation
-
-🔹 **Monitoring**: Prometheus, Grafana, ELK Stack
-
-🔹 **Security**: IAM, Security Groups, Secrets Management
-
-<br>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+### **🎯 Quarterly Breakdown**
+
+| Quarter | Focus Area | Key Milestones |
+|---------|-----------|----------------|
+| **Q1 2026** | 🛠️ **Master DevOps Tools** | Complete AWS Solutions Architect cert, Jenkins mastery, Docker & K8s hands-on |
+| **Q2 2026** | 🏗️ **Build Production Systems** | Deploy 3 full-stack apps, Implement CI/CD pipelines, Cloud architecture design |
+| **Q3 2026** | 🌟 **Open Source Contributions** | Contribute to 10+ repositories, Start own OSS project, Build developer community |
+| **Q4 2026** | 💼 **Secure Dream Tech Role** | Apply to top companies, Complete portfolio, Land DevOps/Cloud Engineer position |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- CONNECT WITH ME SECTION -->
 <div align="center">
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> **Connect With Me**
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4825-a4da-bea4e93ea20e.png" width="30"/> **CONNECT WITH ME**
 
 </div>
 
@@ -439,107 +465,168 @@ Q3-Q4 2026:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/techgeeta">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:geetamehra@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<a href="https://github.com/techgeeta">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/techgeeta">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://github.com/techgeeta">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
+
+### **💬 Let's build something amazing together!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- FUN SECTION -->
 <div align="center">
 
-## ✨ **Fun Fact**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+cloud-powered+solutions+%E2%98%81%EF%B8%8F%E2%9C%A8;Coffee+%E2%98%95+%2B+Code+%F0%9F%92%BB+%3D+Cloud+Magic+%E2%98%81%EF%B8%8F%F0%9F%AA%84;Debug+like+a+detective+%F0%9F%95%B5%EF%B8%8F%E2%80%%8D%E2%99%80%EF%B8%8F%2C+Deploy+like+a+boss+%F0%9F%9A%80" alt="Fun Fact" />
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> **FUN FACTS**
 
 </div>
 
-<br>
+<div align="center">
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+cloud-powered+solutions+%E2%98%81%EF%B8%8F%E2%9C%A8;I+automate+everything+I+can+%F0%9F%A4%96%E2%9A%A1;Debugging+is+like+being+a+detective+%F0%9F%95%B5%EF%B8%8F%E2%80%%99%E2%99%80%EF%B8%8F%F0%9F%94;Coffee+%2B+Code+%3D+Magic+%E2%98%95%F0%9F%92%BB%E2%9C%A8;Learning+never+stops+%F0%9F%93%9A%F0%9F%9A%80" alt="Fun Facts" />
 
-<br>
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80">
+<br/>
+<b>☁️ Cloud First</b>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="80">
+<br/>
+<b>🤖 Automate Everything</b>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="80">
+<br/>
+<b>🚀 Ship Fast</b>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="80">
+<br/>
+<b>📈 Scale Always</b>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+<br/>
+
+---
+
+<br/>
 
 <!-- QUOTE SECTION -->
 <div align="center">
 
-## 💬 **Developer's Mantra**
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<br><br>
-
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Code.+Deploy.+Scale.+Repeat.+%E2%9A%A1" alt="Mantra" />
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **DEVELOPER'S MANTRA**
 
 </div>
 
-<br>
-
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- VISITOR COUNTER -->
 <div align="center">
 
-## 👁️ **Profile Views**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-<br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=techgeeta&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+### **💭 Personal Motto**
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Code.+Deploy.+Scale.+Repeat.+%F0%9F%94%81;Build+with+purpose.+Ship+with+confidence.+%F0%9F%9A%80;Dream.+Design.+Develop.+Deploy.+%E2%9C%A8" alt="Motto" />
 
-<img src="https://visitcount.itsvg.in/api?id=techgeeta&icon=5&color=6" alt="Visit Count" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 </div>
 
-<br>
+<br/>
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br><br>
+<br/>
 
-<!-- FOOTER SECTION -->
+<!-- VISITOR COUNTER SECTION -->
 <div align="center">
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+build+the+future+together+%F0%9F%9A%80;%E2%98%81%EF%B8%8F+Powered+by+Cloud+%7C+Automated+by+DevOps+%E2%9A%99%EF%B8%8F;%F0%9F%92%9C+Open+to+collaborations+and+opportunities!" alt="Footer" />
-
-<br>
-
-### **⭐ From [techgeeta](https://github.com/techgeeta) with 💜**
-
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> **PROFILE VIEWS**
 
 </div>
 
-<!-- ANIMATED WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=techgeeta&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+
+<br/>
+
+<img src="https://visitcount.itsvg.in/api?id=techgeeta&label=Total%20Visitors&color=6&icon=5&pretty=true" alt="Visit Count"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+<br/>
+
+### ⭐ **If you like my work, consider giving a star!** ⭐
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+
+<!-- GLOWING LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br/>
+
+**💻 Crafted with 💙 by Geeta Mehra**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+
+<br/><br/>
+
+<sub>**🚀 "Turning coffee into cloud solutions, one commit at a time!"** ☕☁️</sub>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geeta-mehra-b9261a2b7/)
+[![GitHub](https://img.shields.io/badge/Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techgeeta)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+---
+
+<sub>⚡ **Fun fact:** This README is also a cloud-native application! 😄</sub>
 
 </div>

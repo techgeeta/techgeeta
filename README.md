@@ -290,40 +290,23 @@ const GramStay = {
 ---
 
 <br/>
-
-<!-- GITHUB ANALYTICS SECTION -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> **GITHUB ANALYTICS**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
 
-</div>
-
-<div align="center">
-
-<!-- STATS CARDS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=techgeeta&theme=radical&hide_border=true"/>
 
 <br/>
 
-<!-- TOP LANGUAGES -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgeeta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techgeeta&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 
-<!-- CONTRIBUTION GRAPH -->
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=techgeeta&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=techgeeta&theme=react-dark"/>
 
 </div>
-
-<br/>
-
----
-
 <!-- SNAKE ANIMATION -->
 <div align="center">
 

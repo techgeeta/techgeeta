@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Cloud+%E2%98%81%EF%B8%8F+%7C+DevOps+%E2%9A%99%EF%B8%8F+%7C+AWS+%F0%9F%9A%80+%7C+Automation+%F0%9F%94%A5+%7C+Always+Learning;Designing+scalable+cloud+systems+%26+automating+the+future+%E2%98%81%EF%B8%8F%E2%9A%99%EF%B8%8F;MCA+%40+Graphic+Era+Hill+University+%F0%9F%8E%93;Building+Real-World+Cloud+Solutions+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;AWS+%7C+CI%2FCD+%7C+Automation+%7C+Always+Learning+%F0%9F%9A%80;Building+Scalable+Cloud+Solutions+%E2%9A%99%EF%B8%8F;MCA+Student+%40+Graphic+Era+Hill+University+%F0%9F%8E%93;Turning+Ideas+into+Cloud-Powered+Solutions+%E2%9C%A8"/>
 </p>
 
 <!-- ANIMATED DEVELOPER GIF -->

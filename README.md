@@ -299,10 +299,8 @@ const GramStay = {
 </div>
 
 <div align="center">
-<!-- STATS CARDS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techgeeta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
+<div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=techgeeta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF" alt="GitHub Streak"/>
 ### 📊 GitHub Insights
 
 <a href="https://github.com/techgeeta">
@@ -322,16 +320,20 @@ const GramStay = {
 </a>
 
 </div>
-
-<!-- SNAKE ANIMATION -->
-## 🏆 Contribution in Github
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 ---
 
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> **CONTRIBUTION SNAKE**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techgeeta/techgeeta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techgeeta/techgeeta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/techgeeta/techgeeta/output/github-contribution-grid-snake.svg">
+</picture>
 
 <sub>*Watch the snake eat my contributions!* 🐍</sub>
 

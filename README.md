@@ -562,7 +562,6 @@ graph LR
 
 <br/>
 
-<
 <!-- VISITOR COUNTER SECTION -->
 <div align="center">
 
